@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\.ea91019564a94dc04f6ac17e138754a66c384d00-audit.json",
+    "files": [
+        {
+            "date": 1712212287560,
+            "name": "logs\\ecommerce-2024-04-04-13.log",
+            "hash": "669351a0794951a755172ed97add6122811fb443c2a9064b110e4010cbd6e71b"
+        },
+        {
+            "date": 1712214175877,
+            "name": "logs\\ecommerce-2024-04-04-14.log",
+            "hash": "8dcfbced7723bb0a03f0cf65c589b1fcc7a970644d2a14c2f248f1d3dcf426ab"
+        },
+        {
+            "date": 1712218984213,
+            "name": "logs\\ecommerce-2024-04-04-15.log",
+            "hash": "69551c01c6f4d78cdd74143f927415297ce86dc7f886e197aadcef79c5057dba"
+        },
+        {
+            "date": 1712221489675,
+            "name": "logs\\ecommerce-2024-04-04-16.log",
+            "hash": "15b2c0c38b6d56897e6977233a0d2601759245ed0ca77dfd8088b6dbcc1ca772"
+        },
+        {
+            "date": 1712225515675,
+            "name": "logs\\ecommerce-2024-04-04-17.log",
+            "hash": "aa092d515f80f44efa3e9feedcb275359cff97a80cd711523e07e642d321fba9"
+        },
+        {
+            "date": 1712229186972,
+            "name": "logs\\ecommerce-2024-04-04-18.log",
+            "hash": "dd47191a12dec58c0f20a295efd7ab841c853876e83f373e9cb19ed46a024b8d"
+        },
+        {
+            "date": 1712238227604,
+            "name": "logs\\ecommerce-2024-04-04-20.log",
+            "hash": "9d20fe3f09e68a70d7ad37785337a4ef39eeb1a5c88a61f9608723576bf4e87e"
+        },
+        {
+            "date": 1712244477016,
+            "name": "logs\\ecommerce-2024-04-04-22.log",
+            "hash": "fc634dbec86db0ca6284e67b0f3d9bb761e27f2ab5d50cfd31ffcdbbc4a0a3df"
+        },
+        {
+            "date": 1712248282819,
+            "name": "logs\\ecommerce-2024-04-04-23.log",
+            "hash": "e4c2cdbf8a7dd60c4a4008e0ba5ecbd564a916114468f3b80ac10804ab919744"
+        },
+        {
+            "date": 1712317189039,
+            "name": "logs\\ecommerce-2024-04-05-18.log",
+            "hash": "6bb76a219cbe579932e87b8455e48844a63ac123727b9848b9180e9a70c23b48"
+        },
+        {
+            "date": 1712320024187,
+            "name": "logs\\ecommerce-2024-04-05-19.log",
+            "hash": "27c0f4bc39a7975c43d1ef45940bb857c8208945a6b5348eb6c9124b8114efba"
+        },
+        {
+            "date": 1712325791181,
+            "name": "logs\\ecommerce-2024-04-05-21.log",
+            "hash": "d4b12c425df4d796829c3839475a7f97e895ab15e9de80c1f32c45801a01687c"
+        },
+        {
+            "date": 1712377495283,
+            "name": "logs\\ecommerce-2024-04-06-11.log",
+            "hash": "365a0a0514ceec90e44acaab1c2fe551e8f22888c0c706248fb85ea6bfe36c7c"
+        },
+        {
+            "date": 1712383307653,
+            "name": "logs\\ecommerce-2024-04-06-13.log",
+            "hash": "305566035db2ebc77b0e80c42d3b7c01eac3d7538570802506c6671e86059e86"
+        },
+        {
+            "date": 1712485452209,
+            "name": "logs\\ecommerce-2024-04-07-17.log",
+            "hash": "bc818908616c0e7a799b8458c2b2088ad232e05246b15a4972b47ab95010767b"
+        },
+        {
+            "date": 1712487689255,
+            "name": "logs\\ecommerce-2024-04-07-18.log",
+            "hash": "36493165f75945e5e8ee660c21b227b5aeb29c4013c4a8e7e75069ab521b64c7"
+        },
+        {
+            "date": 1712491491347,
+            "name": "logs\\ecommerce-2024-04-07-19.log",
+            "hash": "c75bbebb3289cd825b4a4ffdc286d7e3ea7bebb4b70487978558d64bb8d8a7a0"
+        },
+        {
+            "date": 1712496030803,
+            "name": "logs\\ecommerce-2024-04-07-20.log",
+            "hash": "3ccbb5ffb8aad5b131e31fe19fe075d35f3203762916b81ed6b1ba3fc92ae12c"
+        },
+        {
+            "date": 1712500207382,
+            "name": "logs\\ecommerce-2024-04-07-21.log",
+            "hash": "c7bef2be1ac91130af0e9811c6c7a948cddd14705467d0c2eea7e3075431294a"
+        },
+        {
+            "date": 1712502396347,
+            "name": "logs\\ecommerce-2024-04-07-22.log",
+            "hash": "adb9a0970120ba0b78922514df2cfde9e344e7f5b45ca4e7a2b8ae5977094a8e"
+        },
+        {
+            "date": 1712668124923,
+            "name": "logs\\ecommerce-2024-04-09-20.log",
+            "hash": "fe1ecfe8795b1f01f46a5b938be71c652b002c6ba9c1d946a430d9baaaec0254"
+        },
+        {
+            "date": 1712671202345,
+            "name": "logs\\ecommerce-2024-04-09-21.log",
+            "hash": "2bbd7257b2a66b7c13e3cd888830fe2c92cf64050074d9b400b8e8398f0baeef"
+        }
+    ],
+    "hashType": "sha256"
+}

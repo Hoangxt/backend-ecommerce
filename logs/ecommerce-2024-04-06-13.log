@@ -1,0 +1,4 @@
+{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-06T06:02:01.240Z"}}
+{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"label":"ecommerce","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-06T06:02:01.240Z"},"timestamp":"2024-04-06T06:02:01.243Z"}}
+{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-06T06:02:34.317Z"}}
+{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"label":"ecommerce","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-06T06:02:34.317Z"},"timestamp":"2024-04-06T06:02:34.321Z"}}

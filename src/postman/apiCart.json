@@ -1,0 +1,10 @@
+{
+  "userId":1001,
+  "product":{
+    "productId":"",
+    "shopId":"",
+    "quantity":10,
+    "name":"",
+    "price":1234
+  }
+}
