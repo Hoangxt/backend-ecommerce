@@ -18,6 +18,7 @@
   "author": "Grotery",
   "license": "ISC",
   "dependencies": {
+    "accesscontrol": "^2.2.1",
     "aws-sdk": "^2.1359.0",
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",

@@ -1,3 +1,10 @@
+/**
+ * error
+ * warning
+ * debug
+ * info
+ * requestId or traceId
+ */
 const { createLogger, transports, format } = require('winston');
 const {
   logger: { serviceName },

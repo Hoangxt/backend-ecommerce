@@ -13,6 +13,8 @@ router.use(apiKey);
 // router.use(permission('0000'));
 
 // init routes
+router.use('/api/v1/profile', require('./profile'));
+router.use('/api/v1/rbac', require('./rbac'));
 router.use('/api/v1/cart', require('./cart'));
 router.use('/api/v1/order', require('./order'));
 router.use('/api/v1/discount', require('./discount'));

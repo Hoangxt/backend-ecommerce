@@ -1,3 +1,0 @@
-{"label":"ecommerce","level":"error","message":"listen EADDRINUSE: address already in use :::3056","metadata":{"address":"::","code":"EADDRINUSE","errno":-4091,"label":"ecommerce","port":3056,"syscall":"listen","timestamp":"2024-04-05T14:03:12.701Z"}}
-{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-05T14:03:12.706Z"}}
-{"label":"ecommerce","level":"error","message":"An invalid token was provided.","metadata":{"label":"ecommerce","metadata":{"code":"TokenInvalid","label":"ecommerce","timestamp":"2024-04-05T14:03:12.706Z"},"timestamp":"2024-04-05T14:03:12.708Z"}}

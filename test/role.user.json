@@ -1,0 +1,13 @@
+{ 
+  "name": "user",
+  "slug": "u00002",
+  "description":"extend from user",
+  "force":true,
+  "grants":[
+    {
+        "resource": "662a333bf783ea4bc5a4d9e6",
+        "actions": ["update:own","read:own"],
+        "attributes": "*"
+    }   
+  ]
+}
